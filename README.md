@@ -1,3 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
 # shahriyarabrarhimel.dev
+Terminal based portfolio website for himel
