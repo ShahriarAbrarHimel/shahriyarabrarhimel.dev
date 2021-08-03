@@ -1,0 +1,58 @@
+<span id="a">ShahriyarAbrarHimel.Dev</span>:<span id="b">~</span><span id="c">$</span> cd ShahriyarAbrarHimel.Dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">ShahriyarAbrarHimel.Dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ShahriyarAbrarHimel.Dev.txt<br/><br/>
+My favorite code quote, "<span id="k">You can do anything! "Just get up and do it,follow yor dreams"</span>". <!-- sjkfhskjf -->
+
+Hi ,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
+I'm Shahriyar Abrar Himel<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm 16-year-old boy on an intention to enhance as a successful full-stack web developer 😎. I love 💚 building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community💥. Open to all DMs on 💬Twitter</p>
+<p>Professionally, I am a young MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer  a web developer at Nielsen. That's not the only way you should look at me. I am a community person who like to meet people, take initiative, overcome challenges, organize programs.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> 🔭 I’m currently working on my MERN Stack
+🌱 I’m currently learning Php,JS,Python,React,Laravel
+👯 I’m looking to collaborate on Full stack web development
+🤔 I’m looking for help with Backend & APIs
+💬 Ask me about Frontend Technologies
+📫 How to reach me: no-reply@shahriyarabrarhimel.xyz & Twitter @shahriyar_dev
+😄 Pronouns: He/Him
+
+My professional portfolio here<a href="http://shahriyarabrarhimel.ml/"> Shahriyar Abrar Himel/</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Tell more about yourself. <br><br><br>
+const Himel = {
+  Pronouns: "He" | "Him",
+  Description : [
+                Optimistic, 
+                It technolodgy ,
+                Programming, 
+                Tech enthusiast and a lot more  
+                ],
+  Education : 
+           [ 
+           { 
+            School: GMMSC, 
+            Year :2014 - 2021  
+           }, 
+           {
+            it training :Eshikhon,
+                         Bohubrihi,
+                         REPTO,
+                         MND Developers,
+                         Programming Hero,
+                         stack learner,
+                         Rabbil Hasan,
+                         learnwith hasinhayder,
+                         Softech It,
+                         Graphic School,
+
+                 } 
+           ],
+ Experience : [' [Compiling-Hero]  @ Twitter', 
+            'Backend developer at [Compiling-Hero] ', 
+            'React developer at [Compiling-Hero] ' ]
+}
+
+
+<a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+
+Let's talk about everything!
+<!-- slightdelayhere-->Don't like forms? Send me an email. 👋<!-- longlonglongcomment --><a href="mailto:no-reply@shahriyarabrarhimel.xyz">no-reply@shahriyarabrarhimel.xyz</a>.
+
+<p>Cheers!</p>
